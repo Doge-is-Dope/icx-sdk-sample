@@ -8,12 +8,12 @@ import {
   Link,
 } from "@material-ui/core";
 import "fontsource-roboto";
-import logo from "./ic_icon.svg";
+import logo from "./icx/icon.svg";
 import {
   getDefaultStepCost,
   getMaxStepLimit,
   getStepPrice,
-} from "./icx/tx_utils";
+} from "./icx/sdk_utils";
 import "./App.css";
 
 const App = () => {
