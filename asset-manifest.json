@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/icx-sdk-sample/static/css/main.d88eee06.chunk.css",
+    "main.js": "/icx-sdk-sample/static/js/main.92ad5032.chunk.js",
+    "main.js.map": "/icx-sdk-sample/static/js/main.92ad5032.chunk.js.map",
+    "runtime-main.js": "/icx-sdk-sample/static/js/runtime-main.4d724f45.js",
+    "runtime-main.js.map": "/icx-sdk-sample/static/js/runtime-main.4d724f45.js.map",
+    "static/css/2.cbecd43c.chunk.css": "/icx-sdk-sample/static/css/2.cbecd43c.chunk.css",
+    "static/js/2.9444f13f.chunk.js": "/icx-sdk-sample/static/js/2.9444f13f.chunk.js",
+    "static/js/2.9444f13f.chunk.js.map": "/icx-sdk-sample/static/js/2.9444f13f.chunk.js.map",
+    "index.html": "/icx-sdk-sample/index.html",
+    "precache-manifest.56708b28960b1652e0cdbf1bc2d17487.js": "/icx-sdk-sample/precache-manifest.56708b28960b1652e0cdbf1bc2d17487.js",
+    "service-worker.js": "/icx-sdk-sample/service-worker.js",
+    "static/css/2.cbecd43c.chunk.css.map": "/icx-sdk-sample/static/css/2.cbecd43c.chunk.css.map",
+    "static/css/main.d88eee06.chunk.css.map": "/icx-sdk-sample/static/css/main.d88eee06.chunk.css.map",
+    "static/js/2.9444f13f.chunk.js.LICENSE.txt": "/icx-sdk-sample/static/js/2.9444f13f.chunk.js.LICENSE.txt",
+    "static/media/icon.svg": "/icx-sdk-sample/static/media/icon.d7235b30.svg",
+    "static/media/index.css": "/icx-sdk-sample/static/media/roboto-vietnamese-400-normal.a8be5b46.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d724f45.js",
+    "static/css/2.cbecd43c.chunk.css",
+    "static/js/2.9444f13f.chunk.js",
+    "static/css/main.d88eee06.chunk.css",
+    "static/js/main.92ad5032.chunk.js"
+  ]
+}
